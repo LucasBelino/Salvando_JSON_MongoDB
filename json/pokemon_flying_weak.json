@@ -1,0 +1,74 @@
+[
+    {
+        "_id": {
+            "$oid": "641728a922fb199536a2c7dc"
+        },
+        "id": 163,
+        "name": {
+            "english": "Hoothoot",
+            "japanese": "\u30db\u30fc\u30db\u30fc",
+            "chinese": "\u5495\u5495",
+            "french": "Hoothoot"
+        },
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 30,
+            "Defense": 30,
+            "Sp. Attack": 36,
+            "Sp. Defense": 56,
+            "Speed": 50
+        }
+    },
+    {
+        "_id": {
+            "$oid": "641728a922fb199536a2c7de"
+        },
+        "id": 165,
+        "name": {
+            "english": "Ledyba",
+            "japanese": "\u30ec\u30c7\u30a3\u30d0",
+            "chinese": "\u82ad\u74e2\u866b",
+            "french": "Coxy"
+        },
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "base": {
+            "HP": 40,
+            "Attack": 20,
+            "Defense": 30,
+            "Sp. Attack": 40,
+            "Sp. Defense": 80,
+            "Speed": 55
+        }
+    },
+    {
+        "_id": {
+            "$oid": "641728a922fb199536a2c84f"
+        },
+        "id": 278,
+        "name": {
+            "english": "Wingull",
+            "japanese": "\u30ad\u30e3\u30e2\u30e1",
+            "chinese": "\u957f\u7fc5\u9e25",
+            "french": "Go\u00e9lise"
+        },
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "base": {
+            "HP": 40,
+            "Attack": 30,
+            "Defense": 30,
+            "Sp. Attack": 55,
+            "Sp. Defense": 30,
+            "Speed": 85
+        }
+    }
+]

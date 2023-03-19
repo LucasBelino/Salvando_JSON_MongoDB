@@ -1,0 +1,26 @@
+[
+    {
+        "_id": {
+            "$oid": "64172850def75977d63011b4"
+        },
+        "id": 165,
+        "name": {
+            "english": "Ledyba",
+            "japanese": "\u30ec\u30c7\u30a3\u30d0",
+            "chinese": "\u82ad\u74e2\u866b",
+            "french": "Coxy"
+        },
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "base": {
+            "HP": 40,
+            "Attack": 20,
+            "Defense": 30,
+            "Sp. Attack": 40,
+            "Sp. Defense": 80,
+            "Speed": 55
+        }
+    }
+]
